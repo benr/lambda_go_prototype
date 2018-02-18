@@ -16,4 +16,4 @@ It is recommended that you don't overly rely on this and instead properly create
 
 Here is an example of this code dumping the event passed from an Alexa Session Init event:
 
-!(https://raw.githubusercontent.com/benr/lambda_go_prototype/master/lambda_screenshot.png)
+![Lambda Screenshot](https://raw.githubusercontent.com/benr/lambda_go_prototype/master/lambda_screenshot.png)
